@@ -2,7 +2,6 @@
 การอัพโหลดขอข้อมูลขึ้น firebaseและmysql
 วันนี้จะมานำเสนอการใช้งาน Module เล็กๆ สีฟ้า  DHT11 (DHT11 Humitdity and Temperature Sensor กับบอร์ด Ardiono)ที่ใช้ในการวัดอุณหภูมิกับความชื่นในอากาศกันกครับ
 
-https://o.lnwfile.com/_/o/_raw/1w/4r/1s.png
 <a href="http://www.mx7.com/view2/A2v6md22PxdZfQLa" target="_blank"><img border="0" src="http://www.mx7.com/i/0a4/5pnkIF.png" /></a>
 
 Temperature and Humidity Sensor
@@ -20,7 +19,7 @@ Temperature and Humidity Sensor
 
 ทีนี้มาดูวิธีการต่อใช้งานครับ
 
-https://o.lnwfile.com/_/o/_raw/02/3k/em.gif
+<a href="http://www.mx7.com/view2/A2v75Wi1ptvOEn2u" target="_blank"><img border="0" src="http://www.mx7.com/i/05d/GjLehl.gif" /></a>
 
 
   ในการการต่อวัดแบบปกติ คือ ระยะห่างระหว่าง Sensor กับตัว Arduino ห่างกันไม่เกิน 20 เมตร จะต้องใช้ Pull up resistor ขนาด 5kohm  (ว่าง่ายๆ คือต่อ R 5k ไว้กับแหล่งจ่ายแรงดันและต่อเข้าไปที่ขา DATA ด้วย)  
