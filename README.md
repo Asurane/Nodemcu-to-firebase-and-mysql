@@ -3,7 +3,7 @@
 วันนี้จะมานำเสนอการใช้งาน Module เล็กๆ สีฟ้า  DHT11 (DHT11 Humitdity and Temperature Sensor กับบอร์ด Ardiono)ที่ใช้ในการวัดอุณหภูมิกับความชื่นในอากาศกันกครับ
 
 https://o.lnwfile.com/_/o/_raw/1w/4r/1s.png
-[url=http://www.mx7.com/view2/A2v6md22PxdZfQLa][img]http://www.mx7.com/i/0a4/5pnkIF.png[/img][/url]
+<a href="http://www.mx7.com/view2/A2v6md22PxdZfQLa" target="_blank"><img border="0" src="http://www.mx7.com/i/0a4/5pnkIF.png" /></a>
 
 Temperature and Humidity Sensor
 
