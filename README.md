@@ -33,3 +33,11 @@ Temperature and Humidity Sensor
    Pin 4  ลงกราวด์
 
    โดยใช้แหล่งจ่ายแรงดัน VDD ขนาด 3-5.5 VDC ครับ  ซึ่งข้อดีคือจะทำให้ DHT11 นี้สามารถใช้งานได้กับ Arduino หลายรุ่น แต่ในที่นี้เราจะใช่ Arduno NodeMCU ครับ
+
+
+สำหรับการต่อวงจรเจ้าของบล็อกก็จะต่อตามนี้นะครับ
+
+<a href="http://www.mx7.com/view2/A2v9xFbUM76nDxx5" target="_blank"><img border="0" src="http://www.mx7.com/i/03c/qY8Dvk.jpg" /></a>
+
+เมื่อต่อเสร็จแล้วนำโค๊ดที่อัพโหลดให้มาทำการดัดแปลงนิดหน่อย ซึ่งจะมีคำอธิบายไว้ไห้แล้ว
+
