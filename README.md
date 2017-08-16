@@ -61,7 +61,7 @@ Temperature and Humidity Sensor
 
 <a href="http://www.mx7.com/view2/A2vdxskCZbuTzqLV" target="_blank"><img border="0" src="http://www.mx7.com/i/0b3/RFn9iF.PNG" /></a>
 
- อย่าลืมเปลี่ยน baud rate นะครับ เพราะใช้ NodeMCU ต้องใช้ baud rate ที่ 115200
+ อย่าลืมเปลี่ยน baud rate นะครับ เพราะใช้ NodeMCU ต้องใช้ baud rate ที่ 115200 
  
  <a href="http://www.mx7.com/view2/A2vfXpl6VVcfgECJ" target="_blank"><img border="0" src="http://www.mx7.com/i/153/eIpgWz.jpg" /></a>
  
