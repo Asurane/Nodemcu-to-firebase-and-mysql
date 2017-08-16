@@ -45,6 +45,10 @@ Temperature and Humidity Sensor
    Pin 4  ลงกราวด์
 
    โดยใช้แหล่งจ่ายแรงดัน VDD ขนาด 3-5.5 VDC ครับ  ซึ่งข้อดีคือจะทำให้ DHT11 นี้สามารถใช้งานได้กับ Arduino หลายรุ่น แต่ในที่นี้เราจะใช่ Arduno NodeMCU ครับ
+   
+   การต่อกับจอ LCD แบบ I2C  
+   
+   <a href="http://www.mx7.com/view2/A3pH7jxYTXxd1JjE" target="_blank"><img border="0" src="http://www.mx7.com/i/122/lQtZ5W.jpg" /></a>
 
 
 สำหรับการต่อวงจรเจ้าของบล็อกก็จะต่อตามนี้นะครับ
