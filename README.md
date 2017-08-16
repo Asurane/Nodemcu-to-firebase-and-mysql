@@ -1,4 +1,16 @@
 # Nodemcu-to-firebase-and-mysql
+
+# อุปการที่ต้องไช้ 
+
+1.NodeMcu 
+
+2.จอ LCD 
+
+3.Senser 
+
+4.สายไฟ
+
+
 การอัพโหลดขอข้อมูลขึ้น firebaseและmysql
 วันนี้จะมานำเสนอการใช้งาน Module เล็กๆ สีฟ้า  DHT11 (DHT11 Humitdity and Temperature Sensor กับบอร์ด Ardiono)ที่ใช้ในการวัดอุณหภูมิกับความชื่นในอากาศกันกครับ
 
@@ -49,9 +61,12 @@ Temperature and Humidity Sensor
  
  <a href="http://www.mx7.com/view2/A2vfXpl6VVcfgECJ" target="_blank"><img border="0" src="http://www.mx7.com/i/153/eIpgWz.jpg" /></a>
  
- จัดทำโดย
+# จัดทำโดย
+
  นายสงกรานต์ พับไว้
+ 
  นายวสุ วัฒนาฤดี
+ 
  นาย ภาณุพงศ์ แซมคำ
  
  <a href="http://www.mx7.com/view2/A3pBPLbOTb7Luhel" target="_blank"><img border="0" src="http://www.mx7.com/i/0ac/TULu9w.jpg" /></a>
