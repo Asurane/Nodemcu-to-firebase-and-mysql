@@ -1,6 +1,6 @@
 # Nodemcu-to-firebase-and-mysql
 
-# อุปการที่ต้องไช้ 
+# อุปการที่ต้องใช้ 
 
 1.NodeMcu 
 
